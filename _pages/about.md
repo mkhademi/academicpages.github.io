@@ -10,7 +10,6 @@ redirect_from:
 
 # About Me
 * I am currently an senior engineer at Google working at the intersection of computer vision and machine learning.
-* 
 * My research interests lie in applying machine learning, particularly deep learning, to understanding visual data. 
 I am facinated with exploring how to learn visual representations that generalizable to new domains/tasks with less labeled data. 
 I also work on applications on medical images, e.g. image registration and segmentation.  
